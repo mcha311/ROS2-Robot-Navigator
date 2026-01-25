@@ -28,6 +28,7 @@ ROS2 Jazzy와 Pygame을 사용하여 구현한 2D 로봇 내비게이션 시뮬�
 - **Pygame**: 2.x
 - **OS**: Ubuntu 24.04 ARM64 (Apple Silicon)
 
+<img width="2076" height="1690" alt="image" src="https://github.com/user-attachments/assets/ab3ffe29-cda6-4d19-84d5-a4e7ba94297b" />
 
 
 **개발 환경**: UTM + Ubuntu 24.04 ARM64 (Apple Silicon) 
