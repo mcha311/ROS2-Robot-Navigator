@@ -204,7 +204,3 @@ ROS2-Robot-Navigator/
 ├── package.xml
 └── setup.py
 ```
-
----
-
-[@mcha311](https://github.com/mcha311)
