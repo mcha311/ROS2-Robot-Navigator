@@ -6,7 +6,11 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-green)](https://python.org)
 [![Platform](https://img.shields.io/badge/Platform-Ubuntu%2024.04%20ARM64-orange)](https://ubuntu.com)
 
+<img width="1038" height="845" alt="스크린샷 2026-01-24 오후 8 05 07" src="https://github.com/user-attachments/assets/5c58a507-6ef8-4aff-9da1-ed3c1a67c340" />
+
+
 ---
+
 
 ## What It Does
 
